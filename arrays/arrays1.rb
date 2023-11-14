@@ -6,3 +6,5 @@ a.each do |num|
 		puts "#{number} is in the array."
 	end
 end
+
+# trying to figure out time bug
