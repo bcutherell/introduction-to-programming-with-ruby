@@ -11,4 +11,5 @@ contacts["Sally Johnson"][:email] = contact_data[1][0]
 contacts["Sally Johnson"][:address] = contact_data[1][1]
 contacts["Sally Johnson"][:phone] = contact_data[1][2]
 
-p contacts
+puts contacts["Joe Smith"][:email]
+puts contacts["Sally Johnson"][:phone]
